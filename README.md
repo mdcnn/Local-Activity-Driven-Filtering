@@ -4,7 +4,7 @@
 
 
 
-# LADF[[Free Offical PDF]](https://authors.elsevier.com/c/1Y6T-bZX4vgxi) [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering): Local Activity-Driven Structural-Preserving Filtering for Noise Removal and Image Smoothing (Signal Processing 2019), Lijun Zhao, Huihui Bai, Jie Liang, Anhong Wang, Bing Zeng, Yao Zhao.
+# LADF[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering): Local Activity-Driven Structural-Preserving Filtering for Noise Removal and Image Smoothing (Signal Processing 2019), Lijun Zhao, Huihui Bai, Jie Liang, Anhong Wang, Bing Zeng, Yao Zhao.
 
 ### Testing Code for "LAD-AD for compressed depth image"
 
